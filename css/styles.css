@@ -1,0 +1,127 @@
+body {
+  background-color: #E1E9FF;
+}
+
+.background {
+  width: 100%;
+  height: 100%;
+}
+
+.background-img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.music {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  position: relative;
+  display: block;
+  width: 430px;
+}
+
+.order-sum {
+  border-radius: 15px;
+  position: relative;
+  background-color: white;
+  bottom: 300px;
+  left: 350px;
+  width: 430px;
+  min-height: 600px;
+}
+
+h2 {
+
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+
+}
+
+.sum-head {
+  color: #7E839F;
+  text-align: center;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: normal;
+}
+
+.annual {
+  background-color: #F8F9FD;
+  border-radius: 10px;
+
+
+  height: 80px;
+  width: 330px;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon {
+  position: relative;
+  top: 3px;
+  margin-left: 17px;
+  margin-top: 17px;
+  height: 40px;
+}
+
+.ann {
+font-family: 'Roboto', sans-serif;
+font-weight: bolder;
+  text-align: center;
+  position: relative;
+  left: 12px;
+  bottom: 20px;
+  display: inline-block;
+
+}
+
+.price {
+  color: #7E839F;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  display: inline;
+  right: 78px;
+
+}
+
+.process {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  background-color: #382AE3;
+  color: white;
+  width: 330px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  margin-top: 28px;
+}
+
+.cancel {
+  color: #7E839F;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.change {
+
+  position: relative;
+  bottom: 15px;
+  left: 30px;
+}
+a:link{
+  color: #EDEBFF;
+}
+.copyright{
+  position: relative;
+  bottom: 300px;
+  right: 45px;
+text-align: center;
+}
